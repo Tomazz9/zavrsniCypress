@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Tomazz9/zavrsniCypress#readme",
   "devDependencies": {
+    "@faker-js/faker": "^5.5.3",
     "cypress": "^10.1.0"
   }
 }
